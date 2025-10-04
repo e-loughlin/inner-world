@@ -11,17 +11,10 @@
             "id": "7d4d14a00ae76986",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -35,9 +28,21 @@
               "icon": "excalidraw-icon",
               "title": "Parts Mapping.excalidraw"
             }
+          },
+          {
+            "id": "431e649b146e90f1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Journals/2025-10-04.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "2025-10-04"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Parts Mapping.excalidraw.md",
+                "file": "Journals/2025-10-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Parts Mapping.excalidraw"
+              "title": "Backlinks for 2025-10-04"
             }
           },
           {
@@ -129,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Parts Mapping.excalidraw.md",
+                "file": "Journals/2025-10-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Parts Mapping.excalidraw"
+              "title": "Outgoing links from 2025-10-04"
             }
           },
           {
@@ -158,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Parts Mapping.excalidraw.md",
+                "file": "Journals/2025-10-04.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Parts Mapping.excalidraw"
+              "title": "Outline of 2025-10-04"
             }
           }
         ]
@@ -182,16 +187,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1882ca1049c81c7f",
+  "active": "431e649b146e90f1",
   "lastOpenFiles": [
+    "Journals/Untitled.canvas",
+    "Journals/2025-10-04.md",
+    "Journals/2025-.md",
+    "Excalidraw/Parts Mapping.excalidraw.md",
+    "Journals",
     "To Do + Goals.md",
     "Autobiography/Life Timeline.md",
-    "Untitled.canvas",
     "Autobiography",
-    "Excalidraw/Parts Mapping.excalidraw.md",
     "README.md",
     "2025-09-25.md",
     "Excalidraw"
