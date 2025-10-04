@@ -47,10 +47,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Dream Mapping.md"
+                "file": "Excalidraw/Life Mapping.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Dream Mapping"
+              "title": "Life Mapping"
             }
           }
         ],
@@ -127,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Dream Mapping.md",
+                "file": "Excalidraw/Life Mapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dream Mapping"
+              "title": "Backlinks for Life Mapping"
             }
           },
           {
@@ -146,12 +146,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Dream Mapping.md",
+                "file": "Excalidraw/Life Mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dream Mapping"
+              "title": "Outgoing links from Life Mapping"
             }
           },
           {
@@ -175,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Dream Mapping.md",
+                "file": "Excalidraw/Life Mapping.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dream Mapping"
+              "title": "Outline of Life Mapping"
             }
           }
         ]
@@ -206,7 +206,7 @@
   "active": "ae19808a15ae43e0",
   "lastOpenFiles": [
     "Excalidraw/Parts Mapping.excalidraw.md",
-    "Excalidraw/Dream Mapping.md",
+    "Excalidraw/Life Mapping.md",
     "Journals/2025-10-04.md",
     "Journals/Untitled.canvas",
     "Journals/2025-.md",
