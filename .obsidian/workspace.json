@@ -35,10 +35,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Journals/2025-10-04.md"
+                "file": "Excalidraw/Parts Mapping.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "2025-10-04"
+              "title": "Parts Mapping.excalidraw"
             }
           }
         ],
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals/2025-10-04.md",
+                "file": "Excalidraw/Parts Mapping.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-10-04"
+              "title": "Backlinks for Parts Mapping.excalidraw"
             }
           },
           {
@@ -134,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals/2025-10-04.md",
+                "file": "Excalidraw/Parts Mapping.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-10-04"
+              "title": "Outgoing links from Parts Mapping.excalidraw"
             }
           },
           {
@@ -163,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals/2025-10-04.md",
+                "file": "Excalidraw/Parts Mapping.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-10-04"
+              "title": "Outline of Parts Mapping.excalidraw"
             }
           }
         ]
@@ -193,8 +193,8 @@
   },
   "active": "431e649b146e90f1",
   "lastOpenFiles": [
-    "Journals/Untitled.canvas",
     "Journals/2025-10-04.md",
+    "Journals/Untitled.canvas",
     "Journals/2025-.md",
     "Excalidraw/Parts Mapping.excalidraw.md",
     "Journals",
