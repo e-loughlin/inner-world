@@ -40,9 +40,21 @@
               "icon": "excalidraw-icon",
               "title": "Parts Mapping.excalidraw"
             }
+          },
+          {
+            "id": "ae19808a15ae43e0",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Dream Mapping.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Dream Mapping"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Parts Mapping.excalidraw.md",
+                "file": "Excalidraw/Dream Mapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Parts Mapping.excalidraw"
+              "title": "Backlinks for Dream Mapping"
             }
           },
           {
@@ -134,12 +146,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Parts Mapping.excalidraw.md",
+                "file": "Excalidraw/Dream Mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Parts Mapping.excalidraw"
+              "title": "Outgoing links from Dream Mapping"
             }
           },
           {
@@ -163,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Parts Mapping.excalidraw.md",
+                "file": "Excalidraw/Dream Mapping.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Parts Mapping.excalidraw"
+              "title": "Outline of Dream Mapping"
             }
           }
         ]
@@ -191,12 +203,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "431e649b146e90f1",
+  "active": "ae19808a15ae43e0",
   "lastOpenFiles": [
+    "Excalidraw/Parts Mapping.excalidraw.md",
+    "Excalidraw/Dream Mapping.md",
     "Journals/2025-10-04.md",
     "Journals/Untitled.canvas",
     "Journals/2025-.md",
-    "Excalidraw/Parts Mapping.excalidraw.md",
     "Journals",
     "To Do + Goals.md",
     "Autobiography/Life Timeline.md",
