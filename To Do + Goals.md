@@ -1,5 +1,5 @@
 Reminders:
-- You are loveable. This is an extraordinary effort you're doing because you're trying to heal. This work is an act of love to yourself and to the people in your life who love you. It's an act of kindness to the world, and it has the powe
+- You are loveable. This is an extraordinary effort you're doing because you're trying to heal. This work is an act of love to yourself and to the people in your life who love you. It's an act of kindness, love, and gratitude for life itself. It can be extremely hard to face hard truths 
 
 
 - [ ] Complete the Autobiography (rough life timeline)
