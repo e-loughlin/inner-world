@@ -59,10 +59,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Life Patterns/Relationships.excalidraw.md"
+                "file": "Excalidraw/Life Mapping.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Relationships.excalidraw"
+              "title": "Life Mapping"
             }
           },
           {
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Life Patterns/Relationships.excalidraw.md",
+                "file": "Excalidraw/Life Mapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Relationships.excalidraw"
+              "title": "Backlinks for Life Mapping"
             }
           },
           {
@@ -170,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Life Patterns/Relationships.excalidraw.md",
+                "file": "Excalidraw/Life Mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Relationships.excalidraw"
+              "title": "Outgoing links from Life Mapping"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Life Patterns/Relationships.excalidraw.md",
+                "file": "Excalidraw/Life Mapping.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Relationships.excalidraw"
+              "title": "Outline of Life Mapping"
             }
           }
         ]
@@ -229,17 +229,17 @@
   },
   "active": "3cddf1a2b66d2675",
   "lastOpenFiles": [
-    "To Do + Goals.md",
-    "Excalidraw/Life Patterns/Relationships.excalidraw.md",
+    "Excalidraw/Parts Mapping.excalidraw.md",
     "Excalidraw/Life Mapping.md",
+    "Excalidraw/Life Patterns/Relationships.excalidraw.md",
+    "Autobiography/Life Timeline.md",
+    "To Do + Goals.md",
     "Excalidraw/Life Patterns",
     "Excalidraw/Authenticity Map.md",
-    "Excalidraw/Parts Mapping.excalidraw.md",
     "Journals/2025-10-04.md",
     "Journals/Untitled.canvas",
     "Journals/2025-.md",
     "Journals",
-    "Autobiography/Life Timeline.md",
     "Autobiography",
     "README.md",
     "2025-09-25.md",
