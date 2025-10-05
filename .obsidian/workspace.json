@@ -52,9 +52,21 @@
               "icon": "excalidraw-icon",
               "title": "Life Mapping"
             }
+          },
+          {
+            "id": "a749eebeaf68b038",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Authenticity Map.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Authenticity Map"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -127,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Life Mapping.md",
+                "file": "Excalidraw/Authenticity Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Life Mapping"
+              "title": "Backlinks for Authenticity Map"
             }
           },
           {
@@ -146,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Life Mapping.md",
+                "file": "Excalidraw/Authenticity Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Life Mapping"
+              "title": "Outgoing links from Authenticity Map"
             }
           },
           {
@@ -175,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Life Mapping.md",
+                "file": "Excalidraw/Authenticity Map.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Life Mapping"
+              "title": "Outline of Authenticity Map"
             }
           }
         ]
@@ -203,10 +215,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae19808a15ae43e0",
+  "active": "a749eebeaf68b038",
   "lastOpenFiles": [
-    "Excalidraw/Parts Mapping.excalidraw.md",
     "Excalidraw/Life Mapping.md",
+    "Excalidraw/Authenticity Map.md",
+    "Excalidraw/Parts Mapping.excalidraw.md",
     "Journals/2025-10-04.md",
     "Journals/Untitled.canvas",
     "Journals/2025-.md",
