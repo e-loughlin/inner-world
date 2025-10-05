@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Authenticity Map.md",
+                "file": "Excalidraw/Life Mapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Authenticity Map"
+              "title": "Backlinks for Life Mapping"
             }
           },
           {
@@ -158,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Authenticity Map.md",
+                "file": "Excalidraw/Life Mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Authenticity Map"
+              "title": "Outgoing links from Life Mapping"
             }
           },
           {
@@ -187,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Authenticity Map.md",
+                "file": "Excalidraw/Life Mapping.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Authenticity Map"
+              "title": "Outline of Life Mapping"
             }
           }
         ]
@@ -215,10 +215,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a749eebeaf68b038",
+  "active": "ae19808a15ae43e0",
   "lastOpenFiles": [
-    "Excalidraw/Life Mapping.md",
     "Excalidraw/Authenticity Map.md",
+    "Excalidraw/Life Mapping.md",
     "Excalidraw/Parts Mapping.excalidraw.md",
     "Journals/2025-10-04.md",
     "Journals/Untitled.canvas",
