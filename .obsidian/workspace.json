@@ -57,12 +57,14 @@
             "id": "3cddf1a2b66d2675",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Life Patterns/Relationships.excalidraw.md"
+                "file": "To Do + Goals.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Relationships.excalidraw"
+              "icon": "lucide-file",
+              "title": "To Do + Goals"
             }
           },
           {
@@ -151,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Life Patterns/Relationships.excalidraw.md",
+                "file": "To Do + Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +163,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Relationships.excalidraw"
+              "title": "Backlinks for To Do + Goals"
             }
           },
           {
@@ -170,12 +172,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Life Patterns/Relationships.excalidraw.md",
+                "file": "To Do + Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Relationships.excalidraw"
+              "title": "Outgoing links from To Do + Goals"
             }
           },
           {
@@ -199,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Life Patterns/Relationships.excalidraw.md",
+                "file": "To Do + Goals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Relationships.excalidraw"
+              "title": "Outline of To Do + Goals"
             }
           }
         ]
@@ -229,8 +231,8 @@
   },
   "active": "3cddf1a2b66d2675",
   "lastOpenFiles": [
-    "Excalidraw/Life Mapping.md",
     "Excalidraw/Life Patterns/Relationships.excalidraw.md",
+    "Excalidraw/Life Mapping.md",
     "Excalidraw/Life Patterns",
     "Excalidraw/Authenticity Map.md",
     "Excalidraw/Parts Mapping.excalidraw.md",
