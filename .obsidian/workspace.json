@@ -54,6 +54,18 @@
             }
           },
           {
+            "id": "3cddf1a2b66d2675",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Life Patterns/Relationships.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Relationships.excalidraw"
+            }
+          },
+          {
             "id": "a749eebeaf68b038",
             "type": "leaf",
             "state": {
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Life Mapping.md",
+                "file": "Excalidraw/Life Patterns/Relationships.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Life Mapping"
+              "title": "Backlinks for Relationships.excalidraw"
             }
           },
           {
@@ -158,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Life Mapping.md",
+                "file": "Excalidraw/Life Patterns/Relationships.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Life Mapping"
+              "title": "Outgoing links from Relationships.excalidraw"
             }
           },
           {
@@ -187,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Life Mapping.md",
+                "file": "Excalidraw/Life Patterns/Relationships.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Life Mapping"
+              "title": "Outline of Relationships.excalidraw"
             }
           }
         ]
@@ -215,10 +227,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae19808a15ae43e0",
+  "active": "3cddf1a2b66d2675",
   "lastOpenFiles": [
-    "Excalidraw/Authenticity Map.md",
     "Excalidraw/Life Mapping.md",
+    "Excalidraw/Life Patterns/Relationships.excalidraw.md",
+    "Excalidraw/Life Patterns",
+    "Excalidraw/Authenticity Map.md",
     "Excalidraw/Parts Mapping.excalidraw.md",
     "Journals/2025-10-04.md",
     "Journals/Untitled.canvas",
