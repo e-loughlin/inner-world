@@ -57,14 +57,12 @@
             "id": "3cddf1a2b66d2675",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Books.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Life Mapping.md"
               },
-              "icon": "lucide-file",
-              "title": "Books"
+              "icon": "excalidraw-icon",
+              "title": "Life Mapping"
             }
           },
           {
@@ -153,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books.md",
+                "file": "Excalidraw/Life Mapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Books"
+              "title": "Backlinks for Life Mapping"
             }
           },
           {
@@ -172,12 +170,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books.md",
+                "file": "Excalidraw/Life Mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Books"
+              "title": "Outgoing links from Life Mapping"
             }
           },
           {
@@ -201,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books.md",
+                "file": "Excalidraw/Life Mapping.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Books"
+              "title": "Outline of Life Mapping"
             }
           }
         ]
@@ -231,10 +229,10 @@
   },
   "active": "3cddf1a2b66d2675",
   "lastOpenFiles": [
-    "To Do + Goals.md",
-    "Books.md",
-    "Excalidraw/Life Mapping.md",
     "Excalidraw/Parts Mapping.excalidraw.md",
+    "Books.md",
+    "To Do + Goals.md",
+    "Excalidraw/Life Mapping.md",
     "Excalidraw/Life Patterns/Relationships.excalidraw.md",
     "Autobiography/Life Timeline.md",
     "Excalidraw/Life Patterns",
