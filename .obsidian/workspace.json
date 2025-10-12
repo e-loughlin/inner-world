@@ -85,12 +85,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do + Goals.md",
+                "file": "Daily Practice.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To Do + Goals"
+              "title": "Daily Practice"
             }
           },
           {
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do + Goals.md",
+                "file": "Daily Practice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for To Do + Goals"
+              "title": "Backlinks for Daily Practice"
             }
           },
           {
@@ -198,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do + Goals.md",
+                "file": "Daily Practice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from To Do + Goals"
+              "title": "Outgoing links from Daily Practice"
             }
           },
           {
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do + Goals.md",
+                "file": "Daily Practice.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of To Do + Goals"
+              "title": "Outline of Daily Practice"
             }
           }
         ]
@@ -257,6 +257,7 @@
   },
   "active": "2fdfb68d64d5e997",
   "lastOpenFiles": [
+    "To Do + Goals.md",
     "HOME.canvas",
     "Assets/Images",
     "Assets/Git/hooks/post-commit",
@@ -268,7 +269,6 @@
     "Assets/Git",
     "Assets",
     "Daily Practice.md",
-    "To Do + Goals.md",
     "Autobiography/Life Timeline.md",
     "Autobiography/Life Timeline.md",
     "Excalidraw/Dreams.md",
