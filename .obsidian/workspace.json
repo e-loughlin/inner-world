@@ -85,12 +85,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do + Goals.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "To Do + Goals"
+              "title": "Untitled"
             }
           },
           {
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do + Goals.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for To Do + Goals"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -198,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "To Do + Goals.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from To Do + Goals"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -227,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To Do + Goals.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of To Do + Goals"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -255,12 +255,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c56bf757f623e97c",
+  "active": "2fdfb68d64d5e997",
   "lastOpenFiles": [
-    "Autobiography/Life Timeline.md",
-    "Autobiography/Life Timeline.md",
     "To Do + Goals.md",
     "Untitled.md",
+    "Autobiography/Life Timeline.md",
+    "Autobiography/Life Timeline.md",
     "Excalidraw/Dreams.md",
     "Excalidraw/Parts Mapping.excalidraw.md",
     "Excalidraw/Life Mapping.md",
