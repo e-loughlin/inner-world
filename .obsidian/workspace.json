@@ -83,12 +83,14 @@
             "id": "2fdfb68d64d5e997",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Autobiography/Life So Far.md"
+                "file": "To Do + Goals.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Life So Far"
+              "icon": "lucide-file",
+              "title": "To Do + Goals"
             }
           },
           {
@@ -177,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autobiography/Life So Far.md",
+                "file": "To Do + Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Life So Far"
+              "title": "Backlinks for To Do + Goals"
             }
           },
           {
@@ -196,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autobiography/Life So Far.md",
+                "file": "To Do + Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Life So Far"
+              "title": "Outgoing links from To Do + Goals"
             }
           },
           {
@@ -225,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autobiography/Life So Far.md",
+                "file": "To Do + Goals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Life So Far"
+              "title": "Outline of To Do + Goals"
             }
           }
         ]
@@ -255,8 +257,8 @@
   },
   "active": "2fdfb68d64d5e997",
   "lastOpenFiles": [
-    "Autobiography/Life Timeline.md",
     "Autobiography/Life So Far.md",
+    "Autobiography/Life Timeline.md",
     "To Do + Goals.md",
     "Untitled.md",
     "Excalidraw/Dreams.md",
