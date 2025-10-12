@@ -66,6 +66,18 @@
             }
           },
           {
+            "id": "13a3ae231c67e207",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Dreams.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Dreams"
+            }
+          },
+          {
             "id": "a749eebeaf68b038",
             "type": "leaf",
             "state": {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -151,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Parts Mapping.excalidraw.md",
+                "file": "Excalidraw/Dreams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Parts Mapping.excalidraw"
+              "title": "Backlinks for Dreams"
             }
           },
           {
@@ -170,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Parts Mapping.excalidraw.md",
+                "file": "Excalidraw/Dreams.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Parts Mapping.excalidraw"
+              "title": "Outgoing links from Dreams"
             }
           },
           {
@@ -199,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Parts Mapping.excalidraw.md",
+                "file": "Excalidraw/Dreams.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Parts Mapping.excalidraw"
+              "title": "Outline of Dreams"
             }
           }
         ]
@@ -227,10 +239,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3cddf1a2b66d2675",
+  "active": "13a3ae231c67e207",
   "lastOpenFiles": [
-    "Excalidraw/Life Mapping.md",
     "Excalidraw/Parts Mapping.excalidraw.md",
+    "Excalidraw/Dreams.md",
+    "Excalidraw/Life Mapping.md",
     "Books.md",
     "To Do + Goals.md",
     "Excalidraw/Life Patterns/Relationships.excalidraw.md",
