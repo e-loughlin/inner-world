@@ -1,0 +1,60 @@
+#!/bin/sh
+
+export PATH="$PATH:/usr/local/bin"
+GIT_DIR=$(git rev-parse --show-toplevel)
+# Check if the Git directory is set
+if [ -z "$GIT_DIR" ]; then
+    echo "Error: Git directory not found."
+    exit 1
+fi
+
+# Find And Replace Alias
+far() {
+    pattern=$1
+    find_str=$2
+    replace_str=$3
+    find . -type f -name "$pattern" -print0 | while IFS= read -r -d '' file; do
+        if grep -q "$find_str" "$file"; then
+            echo "Modifying file: $file"
+            sed -i '' -e "s|$find_str|$replace_str|g" "$file"
+            git add "${file}"
+        fi
+    done
+}
+
+echo "$GIT_DIR/Assets/Images"
+
+echo "Running pre-commit hook"
+# for file in $(find $GIT_DIR/Assets/Images -type f -name "*.png" ! -name "*REDUCED*"); do
+find "$GIT_DIR/Assets/Images" -type f -not -name "*REDUCED*" | while IFS= read -r file; do
+		
+    echo "Renaming and reducing file: $file"
+    new_file="${file%.*}_REDUCED.jpeg"
+    mv "$file" "${new_file}"
+
+    convert "${new_file}" -resize 70% -quality 80 "${new_file}"
+    cd $GIT_DIR
+    far "*.md" "$(basename "${file}")" "$(basename "${new_file}")"
+    cd - 
+done
+
+git add $GIT_DIR/Assets/Images/*
+
+
+find "$GIT_DIR" -type f -name "*.pdf" ! -name "*REDUCED*" | while IFS= read -r file; do
+
+    echo "Renaming and reducing file: $file"
+    new_file="${file%.*}_REDUCED.pdf"
+    cp "${file}" "${new_file}"
+    ghostscript -sDEVICE=pdfwrite -dCompatibilityLevel=1.5 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile="${new_file}" "${file}" 
+    rm "${file}"
+    cd $GIT_DIR
+    far "*.md" "$(basename "${file}")" "$(basename "${new_file}")"
+    cd -
+
+done
+
+git add '*.pdf'
+
+python $GIT_DIR/Assets/Scripts/updateHome.py &> $GIT_DIR/HOME.canvas
+git add $GIT_DIR/HOME.canvas

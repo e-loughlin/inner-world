@@ -257,6 +257,15 @@
   },
   "active": "2fdfb68d64d5e997",
   "lastOpenFiles": [
+    "Assets/Images",
+    "Assets/Git/hooks/post-commit",
+    "Assets/Git/hooks/pre-push",
+    "Assets/Git/hooks/post-checkout",
+    "Assets/Git/hooks/post-merge",
+    "Assets/Git/hooks/pre-commit",
+    "Assets/Git/hooks",
+    "Assets/Git",
+    "Assets",
     "Daily Practice.md",
     "To Do + Goals.md",
     "Autobiography/Life Timeline.md",
@@ -272,9 +281,7 @@
     "Journals/Untitled.canvas",
     "Journals/2025-.md",
     "Journals",
-    "Autobiography",
     "README.md",
-    "2025-09-25.md",
-    "Excalidraw"
+    "2025-09-25.md"
   ]
 }
