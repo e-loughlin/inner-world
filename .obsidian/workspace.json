@@ -69,12 +69,14 @@
             "id": "13a3ae231c67e207",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Dreams.md"
+                "file": "To Do + Goals.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Dreams"
+              "icon": "lucide-file",
+              "title": "To Do + Goals"
             }
           },
           {
@@ -163,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Dreams.md",
+                "file": "To Do + Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Dreams"
+              "title": "Backlinks for To Do + Goals"
             }
           },
           {
@@ -182,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Dreams.md",
+                "file": "To Do + Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Dreams"
+              "title": "Outgoing links from To Do + Goals"
             }
           },
           {
@@ -211,13 +213,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Dreams.md",
+                "file": "To Do + Goals.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dreams"
+              "title": "Outline of To Do + Goals"
             }
           }
         ]
@@ -239,13 +241,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13a3ae231c67e207",
+  "active": "c56bf757f623e97c",
   "lastOpenFiles": [
-    "Excalidraw/Parts Mapping.excalidraw.md",
+    "Untitled.md",
+    "To Do + Goals.md",
     "Excalidraw/Dreams.md",
+    "Excalidraw/Parts Mapping.excalidraw.md",
     "Excalidraw/Life Mapping.md",
     "Books.md",
-    "To Do + Goals.md",
     "Excalidraw/Life Patterns/Relationships.excalidraw.md",
     "Autobiography/Life Timeline.md",
     "Excalidraw/Life Patterns",
