@@ -12,6 +12,7 @@ Reminders:
 - [ ] (When in Self) try to determine the true goals that I wish to achieve in life / who I truly wish to be / what I hope to be like
 - [ ] Determine a daily habit / routine that helps achieve my True Path.
 - [ ] Get Git LFS working
+- [ ] Think up some "If then else" graph that I can follow if I'm struggling and need help, and it can help direct me to the resource that 
 
 
 
