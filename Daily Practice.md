@@ -36,13 +36,14 @@ _(Revisit this daily — it’s your source of energy and meaning)_
 - ## People I love:
 	- Dad, Mom, Erica, Briana, Janelle
 	- Stu, Andrew (cousin), Taylor, Owen
-	- Joe, Pablo, 
+	- Tyrone, AndJoe, Pablo, 
     
 - ## Passions that light me up:
 	- Nature, mountains, oceans, life.
 	- Meditation. Peace. Serenity. Philosophy. Literature. Creativity. Music. Being able to make and share music with the universe. Giving the self up to God (nature).
 	- Building a house on a farm. 
 	- Continuous self-improvement.
+	- Getting a 
     
 - ## My larger “why” in life:
 	- Becoming the best possible person I can be. Being kind, loving others. Being truly kind and loving and compassionate above all. Remaining true to my inner core, my inner sense of being. 
