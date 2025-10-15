@@ -12,7 +12,7 @@ The **foundation** of success comes from daily habits and routines.
 - My 3 intentions for today:  
     1.  
     2.  
-    3.
+    3. 
     
 - Today I will **focus on:**
     
@@ -36,14 +36,14 @@ _(Revisit this daily — it’s your source of energy and meaning)_
 - ## People I love:
 	- Dad, Mom, Erica, Briana, Janelle
 	- Stu, Andrew (cousin), Taylor, Owen
-	- Tyrone, AndJoe, Pablo, 
+	- Tyrone, Andrea, Joe, Pablo, 
     
 - ## Passions that light me up:
 	- Nature, mountains, oceans, life.
 	- Meditation. Peace. Serenity. Philosophy. Literature. Creativity. Music. Being able to make and share music with the universe. Giving the self up to God (nature).
 	- Building a house on a farm. 
 	- Continuous self-improvement.
-	- Getting a 
+	- Getting a dog
     
 - ## My larger “why” in life:
 	- Becoming the best possible person I can be. Being kind, loving others. Being truly kind and loving and compassionate above all. Remaining true to my inner core, my inner sense of being. 
