@@ -43,10 +43,14 @@ _(Revisit this daily — it’s your source of energy and meaning)_
 	- Meditation. Peace. Serenity. Philosophy. Literature. Creativity. Music. Being able to make and share music with the universe. Giving the self up to God (nature).
 	- Building a house on a farm. 
 	- Continuous self-improvement.
-	- Getting a dog
+	- Getting a dog.
+	- Expanding my mind with music, literature, art, beauty.
+	- Visiting museums and being awestruck by it all.
+	- Raising a family.
     
 - ## My larger “why” in life:
 	- Becoming the best possible person I can be. Being kind, loving others. Being truly kind and loving and compassionate above all. Remaining true to my inner core, my inner sense of being. 
+	- Letting go of my anxieties, fears, 
     
 
 ---
