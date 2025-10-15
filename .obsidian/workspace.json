@@ -35,10 +35,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Parts Mapping.excalidraw.md"
+                "file": "Autobiography/Life Timeline.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Parts Mapping.excalidraw"
+              "title": "Life Timeline"
             }
           },
           {
@@ -69,12 +69,12 @@
             "id": "13a3ae231c67e207",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "image",
               "state": {
-                "file": "Autobiography/Life Timeline.md"
+                "file": "Assets/Images/1989 Loughlins0035_REDUCED.jpeg"
               },
-              "icon": "excalidraw-icon",
-              "title": "Life Timeline"
+              "icon": "lucide-image",
+              "title": "1989 Loughlins0035_REDUCED"
             }
           },
           {
@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 404.5
   },
   "right": {
     "id": "b3cacda0522ebc27",
@@ -239,21 +239,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "13a3ae231c67e207",
+  "active": "c56bf757f623e97c",
   "lastOpenFiles": [
-    "Assets/Images/1989 Loughlins0190.JPG",
-    "Assets/Images/1989 Loughlins0191.JPG",
-    "Assets/Images/1989 Loughlins0187.JPG",
-    "Assets/Images/1989 Loughlins0178.JPG",
-    "Assets/Images/1989 Loughlins0174.JPG",
-    "Assets/Images/1989 Loughlins0112.JPG",
-    "Assets/Images/1989 Loughlins0114.JPG",
-    "Assets/Images/1989 Loughlins0120.JPG",
-    "Assets/Images/1989 Loughlins0133.JPG",
-    "Assets/Images/1989 Loughlins0081.jpg",
-    "To Do + Goals.md",
-    "Assets/Images/1989 Loughlins0035.jpg",
+    "Assets/Images/1989 Loughlins0365.JPG",
+    "Assets/Images/1989 Loughlins0277.JPG",
+    "Assets/Images/1989 Loughlins0244.JPG",
+    "Assets/Images/1989 Loughlins0220.JPG",
+    "Assets/Images/1989 Loughlins0207.JPG",
+    "Excalidraw/Parts Mapping.excalidraw.md",
+    "Excalidraw/Life Mapping.md",
+    "Assets/Images/1989 Loughlins0035_REDUCED.jpeg",
+    "Excalidraw/Authenticity Map.md",
     "Autobiography/Life Timeline.md",
+    "Assets/Images/1989 Loughlins0036_REDUCED.jpeg",
+    "Assets/Images/1989 Loughlins0190_REDUCED.jpeg",
+    "Assets/Images/1989 Loughlins0191_REDUCED.jpeg",
+    "Assets/Images/1989 Loughlins0178_REDUCED.jpeg",
+    "Assets/Images/1989 Loughlins0187_REDUCED.jpeg",
+    "To Do + Goals.md",
     "Daily Practice.md",
     "Journals/2025-10-15.md",
     "Journals/2025-10-04.md",
@@ -268,12 +271,9 @@
     "Assets/Git",
     "Assets",
     "Excalidraw/Dreams.md",
-    "Excalidraw/Parts Mapping.excalidraw.md",
-    "Excalidraw/Life Mapping.md",
     "Books.md",
     "Excalidraw/Life Patterns/Relationships.excalidraw.md",
     "Excalidraw/Life Patterns",
-    "Excalidraw/Authenticity Map.md",
     "Journals/Untitled.canvas",
     "Journals/2025-.md",
     "README.md",
