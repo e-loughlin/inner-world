@@ -50,7 +50,7 @@ _(Revisit this daily — it’s your source of energy and meaning)_
     
 - ## My larger “why” in life:
 	- Becoming the best possible person I can be. Being kind, loving others. Being truly kind and loving and compassionate above all. Remaining true to my inner core, my inner sense of being. 
-	- Letting go of my anxieties, fears, 
+	- Letting go of my anxieties, fears, tensions, and truly being alive. Not living for others, not creating a life that looks good to others, but truly live for me. 
     
 
 ---
