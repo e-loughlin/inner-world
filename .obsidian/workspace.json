@@ -83,12 +83,14 @@
             "id": "2fdfb68d64d5e997",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Journals/2025-10-04.md"
+                "file": "Journals/2025-10-15.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "2025-10-04"
+              "icon": "lucide-file",
+              "title": "2025-10-15"
             }
           },
           {
@@ -177,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Journals/2025-10-04.md",
+                "file": "Journals/2025-10-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-10-04"
+              "title": "Backlinks for 2025-10-15"
             }
           },
           {
@@ -196,12 +198,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Journals/2025-10-04.md",
+                "file": "Journals/2025-10-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025-10-04"
+              "title": "Outgoing links from 2025-10-15"
             }
           },
           {
@@ -225,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Journals/2025-10-04.md",
+                "file": "Journals/2025-10-15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025-10-04"
+              "title": "Outline of 2025-10-15"
             }
           }
         ]
@@ -255,6 +257,8 @@
   },
   "active": "2fdfb68d64d5e997",
   "lastOpenFiles": [
+    "Journals/2025-10-04.md",
+    "Journals/2025-10-15.md",
     "Daily Practice.md",
     "To Do + Goals.md",
     "HOME.canvas",
@@ -276,7 +280,6 @@
     "Excalidraw/Life Patterns/Relationships.excalidraw.md",
     "Excalidraw/Life Patterns",
     "Excalidraw/Authenticity Map.md",
-    "Journals/2025-10-04.md",
     "Journals/Untitled.canvas",
     "Journals/2025-.md",
     "README.md",
